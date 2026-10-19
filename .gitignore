@@ -1,0 +1,23 @@
+## .NET Build Outputs
+bin/
+obj/
+dist/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Local Published Exes (Large binaries belong in GitHub Releases)
+PantallaVirtual.exe
+
+## IDE & Editors
+.vs/
+.vscode/
+.idea/
+
+## Logs & Temp files
+*.log
+*.tmp
+*.bak
+[Dd]ebug/
+[Rr]elease/
