@@ -1,4 +1,4 @@
-# 🖥️ SplitVirtual (Pantalla Virtual)
+# 🖥️ DualSpace-Display (Pantalla Virtual)
 
 > **Un segundo monitor virtual completo, interactivo y acelerado por hardware, integrado en tiempo real dentro de tu pantalla física.**
 
