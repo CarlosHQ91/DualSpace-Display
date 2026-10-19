@@ -9,7 +9,7 @@
 
 ---
 
-## 💡 ¿Qué es SplitVirtual?
+## 💡 ¿Qué es DualSpace-Display?
 
 A diferencia de los escritorios virtuales convencionales de Windows (`Win + Ctrl + D`) o las herramientas de ordenamiento de ventanas (*FancyZones*), **SplitVirtual** crea un **monitor de hardware virtual real** reconocido por el sistema operativo mediante el estándar de controladores **IddCx** (Indirect Display Driver).
 
